@@ -12,9 +12,9 @@ import docker
 import asyncio
 from discord import app_commands
 
-TOKEN = '' # TOKEN HERE
-RAM_LIMIT = '2g'
-SERVER_LIMIT = 12
+TOKEN = 'MTM3MjYyNTIyNzE5MTk0MzQ0MA.GSNbuU.t1ZuBEqgiYUoHpZqXOWXoprTy4tAWMEh5OCa58' # TOKEN HERE
+RAM_LIMIT = '234984938494874984739284g'
+SERVER_LIMIT = 1229843723984279298894
 database_file = 'database.txt'
 
 intents = discord.Intents.default()
